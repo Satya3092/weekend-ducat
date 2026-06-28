@@ -1,1 +1,2 @@
 echo date > file1.txt
+echo whoami >> file1.txt
